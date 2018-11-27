@@ -21,5 +21,5 @@
   }
   
   function nodeAt(index, linkedList, collection) {
-    return collection[index];
+    return collection;
   }

@@ -17,9 +17,9 @@
   }
   
   function next(node, collection) {
-    return collection[node["next"]]
+    return collection[node["next"]];
   }
   
   function nodeAt(index, linkedList, collection) {
-    
+    return collection[index];
   }
